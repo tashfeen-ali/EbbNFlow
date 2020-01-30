@@ -15,7 +15,7 @@ To read the full article by Allsopp, [click on this link to **A List Apart**.](h
 ---
 
 
-###### Tash is a student at Montserrat College of Art in Beverly, where he’s currently studying Graphic Design, since it is his **passion™**. Tash is also apart of the super band, *“The Tashfeen Ali Experience,*” featuring [Tash](https://mattresssprings.bandcamp.com/releases), [*Tash*](https://en.wikipedia.org/wiki/Tash_(rapper), [**TASH**](https://www.tashsultana.com), and ~~tash~~. He likes using really loud clacky keyboards, yelling into a microphone, not consistently watering his plants but calling them his babies, and watching cooking videos exclusively. You can find more of Tash and all of his antics at ~~[tash.com](http://tash.com/fa#.XjIexy2ZNBw), [tash.org](https://tash.org), [tash.edu](https://www.coolmathgames.com), and most importantly, [tash.design](https://tashfeenali.myportfolio.com/projects).~~
+###### Tash is a student at Montserrat College of Art in Beverly, where he’s currently studying Graphic Design, since it is his **passion™**. Tash is also apart of the super band, *“The Tashfeen Ali Experience,*” featuring [Tash](https://mattresssprings.bandcamp.com/releases), [*Tash*](https://en.wikipedia.org/wiki/Tash_(rapper)), [**TASH**](https://www.tashsultana.com), and ~~tash~~. He likes using really loud clacky keyboards, yelling into a microphone, not consistently watering his plants but calling them his babies, and watching cooking videos exclusively. You can find more of Tash and all of his antics at ~~[tash.com](http://tash.com/fa#.XjIexy2ZNBw), [tash.org](https://tash.org), [tash.edu](https://www.coolmathgames.com), and most importantly, [tash.design](https://tashfeenali.myportfolio.com/projects).~~
 
 
 
