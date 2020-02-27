@@ -1,0 +1,42 @@
+body {
+    max-width: 900px;
+    margin: 1em auto;
+    font-family: sans-serif;
+    background-color: lightgray;
+    }
+    blockquote {
+        color: dimgray;
+    }
+    p.para {
+        text-align: justify;
+        line-height: 1.4em;   
+    }
+    em {
+        color: #008080;
+    }
+    em.john {
+        color: dimgray;
+    }
+    em.tash {
+        color: black;
+    }
+    em.tashy {
+        color: navy;
+    }
+    img.me {
+        max-width: 256px;
+        margin: 1em 1em 1em 1em;
+    float: left;
+    }  
+    
+    a {
+        color: navy;
+    }
+    a.allsopp {
+        color: darkgreen;
+    }
+    h4 {
+        text-align: justify;
+        line-height: 1.2em;
+        margin: 5em 1em auto auto;
+    } 
