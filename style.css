@@ -46,6 +46,9 @@ body {
     }       
 @media screen and (max-width: 600px) {
     
+    img {
+        max-width: 600px;
+    }
     img.me {
         float: none;
     }
